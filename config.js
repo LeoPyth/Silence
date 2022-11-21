@@ -28,39 +28,38 @@ global.wktuwib = `${global.wibh} H ${global.wibm} M ${global.wibs} S`
     
 /*⫘⫘⫘⫘⫘ MEDIA SOSIAL ⫘⫘⫘⫘*/
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
-
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/eabdalmufid_' //Instagram mu
-global.sgh = 'https://github.com/eabdalmufid' //Github mu
-global.swb = 'https://linktr.ee/whatsappbotz '
+global.sig = 'https://instagram.com/khoirul36_' //Instagram mu
+global.sgh = 'https://github.com/' //Github mu
+global.swb = 'https://bit.ly/3eggcxd '
 global.sfb = 'https://www.facebook.com/'
-global.syt = 'https://www.youtube.com/@silencebot' //YT Mu
-global.sgc = 'https://chat.whatsapp.com/I2OK9w2mkIpKngLpFs0i93' //Group WhatsApp mu
-global.sdc = 'https://www.youtube.com/@silencebot' //Discord Mu
+global.syt = 'https://www.youtube.com/@RullZy' //YT Mu
+global.sgc = 'https://chat.whatsapp.com/D2NUDa6vk4I6hrS176mErV' //Group WhatsApp mu
+global.sdc = 'https://www.youtube.com/@tai' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '089509952003' //Dana
-global.povo = '089509952003' //Ovo
-global.pgopay = '089509952003' //Gopay
-global.ppulsa = '089509952003' //Pulsa 
-global.ppulsa2 = '0881080130122' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
-global.psaweria = 'https://bit.ly/QRISPAY' //Saweria
-global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi Ngab, Jangan Makai Bot doang.│\n┝‷✧ *Ovo:* 089509952003\n│┝‷✧ *Dana:* 089509952003\n│┝‷✧ *Gopay:* 089509952003\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
+global.pdana = '087753812675' //Dana
+global.povo = '-' //Ovo
+global.pgopay = '087753812675' //Gopay
+global.ppulsa = '087753812675' //Pulsa 
+global.ppulsa2 = '087753812675' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.psaweria = 'https://bit.ly/3eggcxd' //Saweria
+global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi Ngab, Jangan Makai Bot doang.│\n┝‷✧ *Pulsa:* 087753812675\n│┝‷✧ *Dana:* 087753812675\n│┝‷✧ *Gopay:* 087753812675\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6287787369563' //Nomor Bot mu
-global.nomorown = '19047502362' //Nomormu
-global.namebot = 'Silence BOT' //Nama bot mu
-global.nameown = 'AngelDark' //Nama mu
+global.nomorbot = '6287753812675' //Nomor Bot mu
+global.nomorown = '-' //Nomormu
+global.namebot = 'Rull BOT' //Nama bot mu
+global.nameown = 'KhrlMstfa' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.after = 'Bot by https://linktr.ee/whatsappbotz'
 global.swo = 'https://wa.me/19047502362'
-global.author = '           © Silence BOT By AngelDark' //Wm author
-global.botintro = 'Hallo, Kenalin saya Silence BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *AngelDark* Saya di rilis pada tanggal\n🗓 ️_13/01/2022_'
+global.author = '           © Rull BOT By Khrl' //Wm author
+global.botintro = 'Hallo, Kenalin saya Rull BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *KhrlMstfa* Saya di rilis pada tanggal\n🗓 ️_13/01/2022_'
 global.sallam = '💬 Waalaikumsallam'
 global.thumbBanned = 'https://telegra.ph/file/b810a9fbc18afc1aaa6c8.jpg'
 global.thumbWarn = 'https://telegra.ph/file/38f72943a6f152112d128.jpg'
